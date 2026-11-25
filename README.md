@@ -1,5 +1,11 @@
 # Jetbrains mono on Android phones
 
+[![Latest release](https://img.shields.io/github/v/release/Mars-Wave/jetbrains-font-magisk-module)](https://github.com/Mars-Wave/jetbrains-font-magisk-module/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Mars-Wave/jetbrains-font-magisk-module/total)](https://github.com/Mars-Wave/jetbrains-font-magisk-module/releases)
+![Magisk module](https://img.shields.io/badge/Magisk-module-00AF9C?logo=magisk&logoColor=white)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-%E2%9D%A4-db61a2?logo=githubsponsors)](https://github.com/sponsors/Mars-Wave)
+
 Imo it's a nice font, so feel FREE to install it on your phone (looking at you androidacy).
 
 ### Disclaimer
